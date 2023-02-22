@@ -138,9 +138,9 @@ slideshow-container{
     align-items: center;
   }
   .form-container h1{
-    font-size: 25px;
-    font-family: 'Times New Roman', Times, serif;
-    margin-bottom: 1rem;
+    font-size: 15px;
+    margin-bottom: 2rem;
+color: white;
   }
   .form-container label {
     margin: 10px 0;
