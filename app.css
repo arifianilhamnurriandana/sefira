@@ -150,8 +150,7 @@ slideshow-container{
   .form-container textarea {
     padding: 10px;
     margin: 5px 0;
-    width: 600px;
-    max-width: 1000px;
+    width: 300px;
     border: none;
     border-radius: 5px;
     font-size: 15px;
@@ -171,4 +170,17 @@ slideshow-container{
     cursor: pointer;
     align-items: stretch;
   }
+.button{
+padding: 10px 20px;
+    margin: 5px 0;
+    border: none;
+    border-radius: 5px;
+    background-color: #b0c4de;
+    color: white;
+    font-size: 10px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+    align-items: stretch;
+}
   
