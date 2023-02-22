@@ -139,6 +139,7 @@ slideshow-container{
   }
   .form-container h1{
     color: white;
+font-size: 20px;
   }
   .form-container label {
     margin: 10px 0;
@@ -162,7 +163,7 @@ slideshow-container{
     margin: 5px 0;
     border: none;
     border-radius: 5px;
-    background-color: #b0c4de;
+    background-color: blue;
     color: white;
     font-size: 10px;
     font-weight: bold;
