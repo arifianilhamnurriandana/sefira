@@ -23,7 +23,7 @@
 }
 
 .slide:nth-child(1) {
-  background-image: url('image1.jpg');
+  background-color: red;
 }
 
 .slide:nth-child(2) {
